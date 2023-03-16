@@ -1,3 +1,2 @@
-# Bookbot project
-
-First project with [boot.dev](https://boot.dev)!
+# bookbot
+Project with boot.dev
